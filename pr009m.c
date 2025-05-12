@@ -1,3 +1,4 @@
+//Однонаправленная связь через pipe между родительским и дочерним процессом
 #include<unistd.h>
 #include<stdlib.h>
 #include<stdio.h>
